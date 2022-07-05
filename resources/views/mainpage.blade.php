@@ -67,7 +67,7 @@
             <!-- Modal button -->
             <div>
                 <button class="w3-button w3-blue-grey w3-round w3-right" onclick="document.getElementById('newsubject').style.display= 'block';return false;">
-                    New Product
+                    New Subject
                 </button>
             </div>
             <br><br>
